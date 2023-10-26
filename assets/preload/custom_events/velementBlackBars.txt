@@ -1,0 +1,1 @@
+Value 1: 1 for on, 0 for off, do I need to explain more?

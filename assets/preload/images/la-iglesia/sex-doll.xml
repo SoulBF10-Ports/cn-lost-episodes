@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sex-doll.png">
+<SubTexture name="idle-mona0000" x="530" y="0" width="177" height="365" frameX="0" frameY="-1" frameWidth="177" frameHeight="367" />
+<SubTexture name="idle-mona0001" x="352" y="366" width="176" height="364" frameX="0" frameY="-2" frameWidth="177" frameHeight="367" />
+<SubTexture name="idle-mona0002" x="528" y="366" width="177" height="363" frameX="0" frameY="-3" frameWidth="177" frameHeight="367" />
+<SubTexture name="idle-mona0003" x="705" y="366" width="176" height="363" frameX="0" frameY="-3" frameWidth="177" frameHeight="367" />
+<SubTexture name="idle-mona0004" x="707" y="0" width="177" height="365" frameX="0" frameY="-1" frameWidth="177" frameHeight="367" />
+<SubTexture name="idle-mona0005" x="0" y="366" width="176" height="365" frameX="0" frameY="-1" frameWidth="177" frameHeight="367" />
+<SubTexture name="idle-mona0006" x="0" y="0" width="177" height="366" frameX="0" frameY="0" frameWidth="177" frameHeight="367" />
+<SubTexture name="idle-mona0007" x="176" y="366" width="176" height="365" frameX="0" frameY="-1" frameWidth="177" frameHeight="367" />
+<SubTexture name="idle-mona0008" x="177" y="0" width="177" height="366" frameX="0" frameY="0" frameWidth="177" frameHeight="367" />
+<SubTexture name="idle-mona0009" x="354" y="0" width="176" height="366" frameX="0" frameY="0" frameWidth="177" frameHeight="367" />
+</TextureAtlas>

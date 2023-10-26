@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Steven Rosao.png">
+<SubTexture name="Down0000" x="1094" y="791" width="357" height="767" frameX="-25" frameY="-30" frameWidth="410" frameHeight="800" />
+<SubTexture name="Down0001" x="735" y="791" width="359" height="774" frameX="-24" frameY="-23" frameWidth="410" frameHeight="800" />
+<SubTexture name="Down0002" x="735" y="791" width="359" height="774" frameX="-24" frameY="-23" frameWidth="410" frameHeight="800" />
+<SubTexture name="Idle0000" x="1422" y="0" width="361" height="779" frameX="-24" frameY="-18" frameWidth="410" frameHeight="800" />
+<SubTexture name="Left0000" x="364" y="791" width="371" height="777" frameX="-4" frameY="-20" frameWidth="410" frameHeight="800" />
+<SubTexture name="Left0001" x="0" y="791" width="364" height="779" frameX="-16" frameY="-18" frameWidth="410" frameHeight="800" />
+<SubTexture name="Left0002" x="0" y="791" width="364" height="779" frameX="-16" frameY="-18" frameWidth="410" frameHeight="800" />
+<SubTexture name="Right0000" x="676" y="0" width="376" height="782" frameX="-31" frameY="-15" frameWidth="410" frameHeight="800" />
+<SubTexture name="Right0001" x="1052" y="0" width="370" height="780" frameX="-28" frameY="-17" frameWidth="410" frameHeight="800" />
+<SubTexture name="Right0002" x="1052" y="0" width="370" height="780" frameX="-28" frameY="-17" frameWidth="410" frameHeight="800" />
+<SubTexture name="Up0000" x="0" y="0" width="330" height="791" frameX="-43" frameY="-6" frameWidth="410" frameHeight="800" />
+<SubTexture name="Up0001" x="330" y="0" width="346" height="785" frameX="-31" frameY="-12" frameWidth="410" frameHeight="800" />
+<SubTexture name="Up0002" x="330" y="0" width="346" height="785" frameX="-31" frameY="-12" frameWidth="410" frameHeight="800" />
+</TextureAtlas>

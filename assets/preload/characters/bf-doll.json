@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				-5
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Note-Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				-58
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Note-Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-10
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Note-Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-31
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Note-Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF Idle dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf-doll",
+	"position": [
+		0,
+		20
+	],
+	"healthicon": "bf-doll",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		195,
+		160
+	],
+	"camera_position": [
+		90,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 0.999999999999999
+}

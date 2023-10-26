@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Scarecrow.png">
+<SubTexture name="Scarecrow Down0000" x="2696" y="0" width="401" height="920" frameX="-130" frameY="-76" frameWidth="675" frameHeight="1005" />
+<SubTexture name="Scarecrow Down0001" x="1849" y="0" width="392" height="936" frameX="-140" frameY="-60" frameWidth="675" frameHeight="1005" />
+<SubTexture name="Scarecrow Down0002" x="1072" y="0" width="389" height="944" frameX="-146" frameY="-52" frameWidth="675" frameHeight="1005" />
+<SubTexture name="Scarecrow Idle0000" x="2241" y="923" width="404" height="922" frameX="-149" frameY="-74" frameWidth="675" frameHeight="1005" />
+<SubTexture name="Scarecrow Idle0001" x="431" y="1923" width="410" height="910" frameX="-137" frameY="-86" frameWidth="675" frameHeight="1005" />
+<SubTexture name="Scarecrow Idle0002" x="1272" y="987" width="394" height="924" frameX="-150" frameY="-72" frameWidth="675" frameHeight="1005" />
+<SubTexture name="Scarecrow Idle0003" x="388" y="987" width="388" height="932" frameX="-158" frameY="-64" frameWidth="675" frameHeight="1005" />
+<SubTexture name="Scarecrow Idle0004" x="0" y="987" width="388" height="936" frameX="-159" frameY="-60" frameWidth="675" frameHeight="1005" />
+<SubTexture name="Scarecrow Idle0005" x="1461" y="0" width="388" height="937" frameX="-159" frameY="-59" frameWidth="675" frameHeight="1005" />
+<SubTexture name="Scarecrow Left0000" x="841" y="1923" width="484" height="879" frameX="-21" frameY="-117" frameWidth="675" frameHeight="1005" />
+<SubTexture name="Scarecrow Left0001" x="0" y="1923" width="431" height="912" frameX="-75" frameY="-84" frameWidth="675" frameHeight="1005" />
+<SubTexture name="Scarecrow Left0002" x="2696" y="920" width="377" height="918" frameX="-132" frameY="-77" frameWidth="675" frameHeight="1005" />
+<SubTexture name="Scarecrow Right0000" x="776" y="987" width="496" height="929" frameX="-164" frameY="-67" frameWidth="675" frameHeight="1005" />
+<SubTexture name="Scarecrow Right0001" x="1666" y="987" width="468" height="924" frameX="-162" frameY="-72" frameWidth="675" frameHeight="1005" />
+<SubTexture name="Scarecrow Right0002" x="2241" y="0" width="455" height="923" frameX="-161" frameY="-73" frameWidth="675" frameHeight="1005" />
+<SubTexture name="Scarecrow Up0000" x="0" y="0" width="354" height="987" frameX="-201" frameY="-8" frameWidth="675" frameHeight="1005" />
+<SubTexture name="Scarecrow Up0001" x="354" y="0" width="358" height="976" frameX="-188" frameY="-19" frameWidth="675" frameHeight="1005" />
+<SubTexture name="Scarecrow Up0002" x="712" y="0" width="360" height="964" frameX="-183" frameY="-32" frameWidth="675" frameHeight="1005" />
+</TextureAtlas>

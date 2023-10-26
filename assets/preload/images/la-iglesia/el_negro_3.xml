@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="el_negro_3.png">
+<SubTexture name="Patana_Idle0000" x="237" y="0" width="234" height="644" frameX="-19" frameY="-4" frameWidth="256" frameHeight="649" />
+<SubTexture name="Patana_Idle0001" x="237" y="0" width="234" height="644" frameX="-19" frameY="-3" frameWidth="256" frameHeight="649" />
+<SubTexture name="Patana_Idle0002" x="972" y="0" width="251" height="624" frameX="-5" frameY="-24" frameWidth="256" frameHeight="649" />
+<SubTexture name="Patana_Idle0003" x="972" y="0" width="251" height="624" frameX="-5" frameY="-24" frameWidth="256" frameHeight="649" />
+<SubTexture name="Patana_Idle0004" x="716" y="0" width="256" height="625" frameX="0" frameY="-23" frameWidth="256" frameHeight="649" />
+<SubTexture name="Patana_Idle0005" x="716" y="0" width="256" height="625" frameX="0" frameY="-23" frameWidth="256" frameHeight="649" />
+<SubTexture name="Patana_Idle0006" x="471" y="0" width="245" height="632" frameX="-8" frameY="-16" frameWidth="256" frameHeight="649" />
+<SubTexture name="Patana_Idle0007" x="471" y="0" width="245" height="632" frameX="-8" frameY="-15" frameWidth="256" frameHeight="649" />
+<SubTexture name="Patana_Idle0008" x="0" y="0" width="237" height="646" frameX="-14" frameY="-2" frameWidth="256" frameHeight="649" />
+<SubTexture name="Patana_Idle0009" x="0" y="0" width="237" height="646" frameX="-14" frameY="-2" frameWidth="256" frameHeight="649" />
+</TextureAtlas>

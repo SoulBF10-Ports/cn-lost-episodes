@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="degriving" width="1111" height="1484">
+  <SubTexture name="down0001" x="0" y="0"  width="244" height="270.5" frameX="-190" frameY="-85.5" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="down0002" x="0" y="270.5"  width="247" height="277" frameX="-192" frameY="-79" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="idle0001" x="0" y="547.5"  width="208" height="309.5" frameX="-196" frameY="-47" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="idle0002" x="247" y="0"  width="206.5" height="309" frameX="-197" frameY="-47.5" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="idle0003" x="0" y="857"  width="209" height="316.5" frameX="-200.5" frameY="-40" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="idle0004" x="247" y="309"  width="210.5" height="322" frameX="-203.5" frameY="-34.5" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="idle0005" x="457.5" y="309"  width="212.5" height="331" frameX="-207" frameY="-28.5" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="left0001" x="0" y="1173.5"  width="207.5" height="310.5" frameX="-192.5" frameY="-46" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="left0002" x="670" y="0"  width="209.5" height="314" frameX="-196" frameY="-42.5" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="right0001" x="209" y="640"  width="220" height="339" frameX="-240.5" frameY="-21" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="right0002" x="670" y="314"  width="219.5" height="337.5" frameX="-237.5" frameY="-22.5" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="up0001" x="209" y="979"  width="216.5" height="327.5" frameX="-220" frameY="-27.5" frameWidth="640" frameHeight="360"/>
+  <SubTexture name="up0002" x="889.5" y="0"  width="221.5" height="323.5" frameX="-216" frameY="-31.5" frameWidth="640" frameHeight="360"/>
+</TextureAtlas>
+
+<!--optimized By MarcSkr
+-->

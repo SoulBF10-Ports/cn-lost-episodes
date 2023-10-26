@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="el_negro_1.png">
+<SubTexture name="Juanin_Idle0000" x="413" y="0" width="203" height="409" frameX="-10" frameY="-5" frameWidth="215" frameHeight="415" />
+<SubTexture name="Juanin_Idle0001" x="413" y="0" width="203" height="409" frameX="-10" frameY="-5" frameWidth="215" frameHeight="415" />
+<SubTexture name="Juanin_Idle0002" x="0" y="413" width="215" height="405" frameX="0" frameY="-9" frameWidth="215" frameHeight="415" />
+<SubTexture name="Juanin_Idle0003" x="0" y="413" width="215" height="405" frameX="0" frameY="-9" frameWidth="215" frameHeight="415" />
+<SubTexture name="Juanin_Idle0004" x="616" y="0" width="212" height="408" frameX="0" frameY="-6" frameWidth="215" frameHeight="415" />
+<SubTexture name="Juanin_Idle0005" x="616" y="0" width="212" height="408" frameX="0" frameY="-6" frameWidth="215" frameHeight="415" />
+<SubTexture name="Juanin_Idle0006" x="204" y="0" width="209" height="411" frameX="-5" frameY="-3" frameWidth="215" frameHeight="415" />
+<SubTexture name="Juanin_Idle0007" x="204" y="0" width="209" height="411" frameX="-5" frameY="-3" frameWidth="215" frameHeight="415" />
+<SubTexture name="Juanin_Idle0008" x="0" y="0" width="204" height="413" frameX="-9" frameY="-1" frameWidth="215" frameHeight="415" />
+<SubTexture name="Juanin_Idle0009" x="0" y="0" width="204" height="413" frameX="-9" frameY="-1" frameWidth="215" frameHeight="415" />
+</TextureAtlas>

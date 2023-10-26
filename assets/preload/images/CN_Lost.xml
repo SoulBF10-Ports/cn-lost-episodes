@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CN_Lost.png">
+<SubTexture frameHeight="240" frameWidth="240" frameX="-29" frameY="-71" height="113" name="CN_Lost idle0000" width="193" x="0" y="0" />
+<SubTexture frameHeight="240" frameWidth="240" frameX="-29" frameY="-71" height="113" name="CN_Lost idle0001" width="193" x="0" y="0" />
+<SubTexture frameHeight="240" frameWidth="240" frameX="-29" frameY="-71" height="113" name="CN_Lost idle0002" width="193" x="0" y="0" />
+<SubTexture frameHeight="240" frameWidth="240" frameX="-29" frameY="-71" height="113" name="CN_Lost idle0003" width="193" x="0" y="0" />
+<SubTexture frameHeight="240" frameWidth="240" frameX="-29" frameY="-71" height="113" name="CN_Lost idle0004" width="193" x="0" y="0" />
+<SubTexture frameHeight="240" frameWidth="240" frameX="-29" frameY="-71" height="113" name="CN_Lost idle0005" width="193" x="0" y="0" />
+<SubTexture frameHeight="240" frameWidth="240" frameX="-29" frameY="-71" height="113" name="CN_Lost idle0006" width="193" x="0" y="0" />
+<SubTexture frameHeight="240" frameWidth="240" frameX="-29" frameY="-71" height="113" name="CN_Lost idle0007" width="193" x="0" y="0" />
+<SubTexture frameHeight="240" frameWidth="240" frameX="-29" frameY="-71" height="113" name="CN_Lost idle0008" width="193" x="0" y="0" />
+<SubTexture frameHeight="240" frameWidth="240" frameX="-29" frameY="-71" height="113" name="CN_Lost idle0009" width="193" x="0" y="0" />
+<SubTexture frameHeight="240" frameWidth="240" frameX="-28" frameY="-71" height="113" name="CN_Lost idle0010" width="194" x="193" y="0" />
+<SubTexture frameHeight="240" frameWidth="240" frameX="-28" frameY="-71" height="113" name="CN_Lost idle0011" width="194" x="193" y="0" />
+<SubTexture frameHeight="240" frameWidth="240" frameX="-25" frameY="-71" height="113" name="CN_Lost idle0012" width="197" x="0" y="113" />
+<SubTexture frameHeight="240" frameWidth="240" frameX="-25" frameY="-71" height="113" name="CN_Lost idle0013" width="197" x="0" y="113" />
+<SubTexture frameHeight="240" frameWidth="240" frameX="-9" frameY="-71" height="113" name="CN_Lost idle0014" width="231" x="0" y="226" />
+<SubTexture frameHeight="240" frameWidth="240" frameX="-9" frameY="-71" height="113" name="CN_Lost idle0015" width="231" x="0" y="226" />
+</TextureAtlas>

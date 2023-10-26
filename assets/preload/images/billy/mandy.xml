@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mandy.png">
+<SubTexture name="mandy idle0000" x="1314" y="0" width="420" height="732" frameX="-25" frameY="-15" frameWidth="467" frameHeight="752" />
+<SubTexture name="mandy idle0001" x="0" y="743" width="424" height="728" frameX="-6" frameY="-19" frameWidth="467" frameHeight="752" />
+<SubTexture name="mandy idle0002" x="424" y="743" width="424" height="728" frameX="-6" frameY="-19" frameWidth="467" frameHeight="752" />
+<SubTexture name="mandy idle0003" x="1291" y="743" width="429" height="722" frameX="0" frameY="-25" frameWidth="467" frameHeight="752" />
+<SubTexture name="mandy idle0004" x="1734" y="0" width="429" height="722" frameX="0" frameY="-25" frameWidth="467" frameHeight="752" />
+<SubTexture name="mandy idle0005" x="848" y="743" width="443" height="727" frameX="-14" frameY="-20" frameWidth="467" frameHeight="752" />
+<SubTexture name="mandy idle0006" x="848" y="743" width="443" height="727" frameX="-14" frameY="-20" frameWidth="467" frameHeight="752" />
+<SubTexture name="mandy idle0007" x="439" y="0" width="437" height="733" frameX="-23" frameY="-14" frameWidth="467" frameHeight="752" />
+<SubTexture name="mandy idle0008" x="876" y="0" width="438" height="733" frameX="-23" frameY="-14" frameWidth="467" frameHeight="752" />
+<SubTexture name="mandy idle0009" x="0" y="0" width="439" height="743" frameX="-23" frameY="-5" frameWidth="467" frameHeight="752" />
+</TextureAtlas>
